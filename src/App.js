@@ -6,6 +6,7 @@ function App() {
     <div className="App">
      <h1>Game app</h1>
      <p>React js</p>
+     <button>click me</button>
     </div>
   );
 }
